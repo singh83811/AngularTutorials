@@ -36,5 +36,27 @@ export class AppComponent {
 
   // color = 'green';
 
+  // users = ['Anil', 'John', 'Peter'];
+  // userDetail = [
+  //   { name: 'anil', email: 'anil@gmail.com', address: 'xyz' },
+  //   { name: 'john', email: 'john@gmail.com', address: 'abc' }
+  // ];
+
+  // users = ['anil', 'peter', 'singh', 'john']
+  // users = [
+  //   { name: 'anil', phone: '111111111', accounts: ['fb', 'insta', 'whatsapp'] },
+  //   { name: 'peter', phone: '22222222222', accounts: ['fb', 'youtube', 'whatsapp'] },
+  //   { name: 'singh', phone: '33333333333', accounts: ['youtube', 'insta', 'whatsapp'] },
+  //   { name: 'john', phone: '444444444444', accounts: ['fb', 'insta', 'youtube'] }
+  // ]
+
+  // color = 'red';
+  // bgColor = 'yellow';
+
+  // changeColor() {
+  //   this.color = 'yellow';
+  //   this.bgColor = 'red';
+
+  // }
 
 }
